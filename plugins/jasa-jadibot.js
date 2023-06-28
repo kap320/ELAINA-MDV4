@@ -4,7 +4,7 @@ import db from '../lib/database.js'
 
 let handler = async (m, { conn, command }) => {
 	let ini_txt = db.data.datas.teksjadibot || `❤‍🩹 *[ Chat Dengan Creator ]*
-wa.me/6282337245566
+wa.me/6285974238938
 
 ╔╣ *PREMIUM USER*
 ║ • Infinity Limit
